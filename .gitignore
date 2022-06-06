@@ -1,0 +1,9 @@
+# build
+build/
+
+# cache
+nimcache/
+
+# tests
+testresults/
+tests/megatest.nim
